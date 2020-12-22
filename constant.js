@@ -1,0 +1,2 @@
+export const API_KEY = "d7513b023582fc3f7c714113c9dfa68b"
+export const FACEBOOK_APP_ID = "183801273397589"
